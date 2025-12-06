@@ -1,0 +1,28 @@
+{
+  "name": "conta_bancaria_typescript",
+  "version": "1.0.0",
+  "description": "Conta Bancária TypeScript é um projeto desenvolvido durante o Bootcamp Generation – JavaScript Full Stack Developer. O objetivo deste repositório é implementar um sistema simples de conta bancária utilizando TypeScript, aplicando conceitos fundamentais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissasousadev/conta_bancaria_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alissasousadev/conta_bancaria_typescript/issues"
+  },
+  "homepage": "https://github.com/alissasousadev/conta_bancaria_typescript#readme",
+  "dependencies": {
+    "@types/node": "^24.10.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  }
+}
