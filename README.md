@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Projeto Conta Bancária</h1>
+<h1 align="center">🏦 Projeto Conta Bancária 🏦</h1>
 
 ###
 
