@@ -41,6 +41,14 @@
 ###
 
 <div align="center">
+  <p>
+    <em>
+      Projeto desenvolvido com fins educacionais, no contexto da formação oferecida pela <strong>Generation Brasil</strong>.
+    </em>
+  </p>
+</div>
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alissasousadev.alissasousadev&left_color=black&right_color=blue"  />
 </div>
 
